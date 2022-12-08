@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+h2 {
+  font-size: 30px;
+}
+.red {
+  background-color: red;
+  color: #fff;
+}
+ul {
+  list-style-type: circle;
+  font-size: 20px;
+  text-align: left;
+}
+
+.close {
+  position: absolute;
+  right: 20px;
+}
